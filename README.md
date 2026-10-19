@@ -6,11 +6,11 @@
 </head>
 <body>
     <h1>原始圖片<h1>
-        <img src="1.jpg" alt="1"width="400" height="140">
+        <img src="1.jpg" alt="1"width="300" height="160">
     <h1>生成圖片<h1>
-        <img src="2.png" alt="2"width="400" height="140">
+        <img src="2.png" alt="2"width="300" height="160">
     <h1>工作流截圖<h1>
-        <img src="3.jpg" alt="3"width="400" height="120">
+        <img src="3.jpg" alt="3"width="400" height="180">
     <h1>正反提示詞<h1>
         <p>soft colors, clean line art, high quality, detailed background, beautiful lighting</p>
         <p>lowres,blurry, bad anatomy, bad hands, extra tingers, extra limbs, deformed face, ugty, distorted face, text, watermark, logo, duplicate</p>
